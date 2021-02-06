@@ -65,7 +65,7 @@ toml==0.10.2
 tornado==6.1
 traitlets>=4.3.3
 typing-extensions==3.7.4.3
-watermark==2.1.0
+watermark>=2.0.2
 wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==1.0.1
