@@ -51,7 +51,7 @@ qtconsole==5.0.2
 QtPy==1.9.0
 -e git+https://github.com/limbachia/clothes-recommender-app.git@20dce5ea8f2c6f4d6c573fce90686ee82822a663#egg=recommender_model&subdirectory=packages
 scikit-learn==0.22.2.post1
-scipy==1.6.0
+scipy==1.5.4
 seaborn==0.11.1
 Send2Trash==1.5.0
 six==1.15.0
